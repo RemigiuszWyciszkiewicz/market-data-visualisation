@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+div[kendowatermarkoverlay] 
+{
+    display: none !important;
+}
+
+.k-slider-horizontal .k-label {
+    transform: rotate(90deg);
+    font-size: 9px;
+    right: 0px;
+}
