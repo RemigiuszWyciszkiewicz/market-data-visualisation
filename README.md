@@ -1,2 +1,1 @@
-1. npm install
-2. ng serve
+## DEMO: https://market-data-visualisation.pages.dev/
